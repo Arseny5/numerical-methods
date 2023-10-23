@@ -1,4 +1,4 @@
-# Numerical_Methods
+# Numerical Methods subject at the university
 
 ## Лекции:
 <b>Лекция 1:</b> Метод дихотомии (половинного деления). Метод простой итерации. <br>
